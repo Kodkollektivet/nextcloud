@@ -50,8 +50,3 @@ As we want to have the nextcloud server running on the same server as Kodkollekt
 
   </Directory>
 ```
-
-
-  
-  
-  
